@@ -25,6 +25,7 @@ public class Operation {
     public static void taghsim(int i,int j){
         int a =i/j;
         System.out.println("taghsim i bar j=" +a);
+        System.out.println("abbas");
 
     }
     public static void mines (int i, int j){
